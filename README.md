@@ -8,4 +8,4 @@ start a local server on your machine. Copy the URL found in the sentence "Starti
 development server at..." and paste into your web browser. You should see a success message once
 the site loads. 
 
-
+Additionally, you can append "/admin" to the copied url and you will see the default login page!
